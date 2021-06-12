@@ -1,3 +1,5 @@
+(This repo is an exercise I did as part of [Josh Comeau's course, CSS for JavaScript Developers](https://css-for-js.dev/). --@rorysaur)
+
 # Sole&Ankle — Module 4 workshop
 
 In this workshop, our goal is to finish building an e-commerce store!
